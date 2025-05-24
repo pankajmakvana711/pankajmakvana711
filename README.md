@@ -63,7 +63,7 @@ A management system for monitoring and organizing water supply operations.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PankajMakvana&show_icons=true&theme=tokyonight" alt="Pankaj's GitHub stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PankajMakvana&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pankajmakvana711&theme=tokyonight" />
 </p>
 
 ---
