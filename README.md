@@ -83,6 +83,7 @@ A centralized management system for monitoring and organizing water supply opera
 ## 🌐 Let's Connect
 
 - 📧 Email: **makvanapankaj608@gmail.com**
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link) _(Update this with your real profile link)_
+- 💼 [LinkedIn](https://www.linkedin.com/in/pankajmakvana711/) _(Update this with your real profile link)_
+- 🌐 [Portfolio](https://pankajmakvana711.github.io/)
 
 ---
