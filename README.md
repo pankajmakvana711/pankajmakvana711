@@ -32,7 +32,7 @@
 
 ### 📚 E-Learning Platform (MERN Stack)
 
-<img src="https://cdn-icons-png.flaticon.com/512/5977/5977585.png" width="40"/>
+
 
 An interactive platform for students and instructors to access and manage courses.
 
