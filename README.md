@@ -72,6 +72,8 @@ A centralized management system for monitoring and organizing water supply opera
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=pankajmakvana711&theme=tokyo-night&area=true&hide_border=true" />
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajmakvana"/>
+
 ---
 
 ## 🐍 Contribution Snake Animation
