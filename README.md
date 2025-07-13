@@ -66,8 +66,9 @@ Interactive platform for students and instructors.
 
 ## 🧊 3D Contributions Calendar
 <p align="center">
-  <img src="https://github.com/pankajmakvana711/pankajmakvana711/raw/output/github-contribution-grid-snake.svg" alt="3D contribution calendar" />
+  <img src="profile-3d-contrib/profile-green-animate.svg" />
 </p>
+
 
 ---
 
