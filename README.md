@@ -76,7 +76,7 @@ A centralized management system for monitoring and organizing water supply opera
 
 ## 📊 Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajmakvana711"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankajmakvana711&layout=compact&theme=radical&langs_count=8&hide_border=true&border_radius=8)](https://github.com/pankajmakvana711)
 
 
 ---
