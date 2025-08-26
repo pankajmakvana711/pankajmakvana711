@@ -5,7 +5,7 @@
   <a href="mailto:makvanapankaj608@gmail.com">
     <img src="https://img.shields.io/badge/Email-makvanapankaj608@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/pankajmakvana711/" target="_blank">
+  <a href="https://www.linkedin.com/in/pankajmakvana07/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://pankajmakvana711.github.io/" target="_blank">
