@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 🌐 **Full-Stack Developer** | MERN | ASP.NET | Python | C++  
-📚 Built **E-Learning Platform** & **Water Supply Management System**  
+📚 Built **E-Learning Platform** & **Water Supply Management System** & **more in repo**  
 📬 Reach me at: **makvanapankaj608@gmail.com**
 
 ---
