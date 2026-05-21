@@ -53,7 +53,8 @@ Interactive platform for students and instructors.
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=pankajmakvana711&show_icons=true&theme=radical&hide_border=true&custom_title=GitHub%20Stats&animation=wave" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=pankajmakvana711&theme=radical&hide_border=true" height="180"/>
+  <!-- <img src="https://streak-stats.demolab.com?user=pankajmakvana711&theme=radical&hide_border=true" height="180"/> -->
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pankajmakvana711" alt="GitHub Streak" /></a>
 </p>
 
 
